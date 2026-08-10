@@ -1,0 +1,1 @@
+print("brush your teeth")

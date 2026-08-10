@@ -1,0 +1,10 @@
+name = input("Enter student name: ")
+roll_no = input("Enter roll number: ")
+age = input("Enter age: ")
+course = input("Enter course: ")
+
+print("\nStudent Details")
+print("Name:", name)
+print("Roll No:", roll_no)
+print("Age:", age)
+print("Course:", course)
